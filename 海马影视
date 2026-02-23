@@ -795,7 +795,7 @@
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
         {
-            "name": "🦄新加坡频道(梯子)",
+            "name": "🦄新加坡频道(梯子新加坡节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/新加坡.m3u"
