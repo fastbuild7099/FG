@@ -732,18 +732,6 @@
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
         {
-            "name": "🐬iptvpro🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://hufa.zabc.net:8080/iptvpro.php"
-        }, 
-        {
-            "name": "🐬亚麻蝶🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://xoxo.cn.mt/Lonely.m3u"
-        }, 
-        {
             "name": "🐬安博(梯子)🔞",
             "type": 0,
             "ua": "okhttp",
